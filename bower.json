@@ -1,0 +1,20 @@
+{
+  "name": "angular-tdd-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mark Lybrand <mlybrand@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mlybrand/angular-tdd-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
