@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mlybrand/angular-tdd-demo/issues"
   },
-  "homepage": "https://github.com/mlybrand/angular-tdd-demo#readme"
+  "homepage": "https://github.com/mlybrand/angular-tdd-demo#readme",
+  "dependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1"
+  }
 }
